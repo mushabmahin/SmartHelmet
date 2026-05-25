@@ -164,10 +164,11 @@ Select:
 
 Upload firmware.
 
-## Future Improvements
--TinyML-based crash classification
--Mobile application integration
--Cloud event analytics
--BLE/WiFi telemetry
--Multi-contact emergency broadcasting
--Real-time health monitoring
+# Future Improvements
+
+- TinyML-based crash classification
+- Mobile application integration
+- Cloud event analytics
+- BLE/WiFi telemetry
+- Multi-contact emergency broadcasting
+- Real-time health monitoring
