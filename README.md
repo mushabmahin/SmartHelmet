@@ -123,30 +123,44 @@ smarthelmet-ai/
 │   └── architecture.png
 │
 └── README.md
----
+```
 
 
 
 Installation & Setup
-1. Clone Repository
-git clone https://github.com/YOUR_USERNAME/SmartHelmet.git
-2. Open in Arduino IDE
+# Installation & Setup
+
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/mushabmahin/SmartHelmet.git
+```
+
+## 2. Open in Arduino IDE
 
 Load:
 
+```bash
 firmware/smarthelmet.ino
-3. Install Required Libraries
-TinyGPS++
-DHT Sensor Library
-Wire Library
-4. Configure Emergency Number
+```
+
+## 3. Install Required Libraries
+
+- TinyGPS++
+- DHT Sensor Library
+- Wire Library
+
+## 4. Configure Emergency Number
+
+```cpp
 const char* emergencyNumber = "+91XXXXXXXXXX";
-5. Upload to ESP32
+```
+
+## 5. Upload to ESP32
 
 Select:
-
-ESP32 Board
-Correct COM Port
+- ESP32 Board
+- Correct COM Port
 
 Upload firmware.
 
