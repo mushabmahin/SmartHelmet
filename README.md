@@ -1,6 +1,6 @@
 # SmartHelmet AI – Rider Safety & Emergency Response System
 
-An AI-powered IoT safety helmet designed for real-time accident detection, emergency alerting, and rider assistance using embedded systems, sensor fusion, GPS localization, and GSM communication.
+An  IoT safety helmet designed for real-time accident detection, emergency alerting, and rider assistance using embedded systems, sensor fusion, GPS localization, and GSM communication.
 
 ---
 
@@ -123,6 +123,8 @@ smarthelmet-ai/
 │   └── architecture.png
 │
 └── README.md
+---
+
 
 
 Installation & Setup
